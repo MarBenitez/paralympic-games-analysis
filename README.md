@@ -2,8 +2,6 @@
 
 This repository contains a Power BI dashboard that visualizes key insights and metrics from the Paralympic Games. The data spans historical records from various editions of the Games, including information on athletes, medals, rankings, and country performances.
 
-![Model Overview](model_overview.png)
-
 ## Project Overview
 
 The goal of this project is to build an interactive Power BI dashboard to explore and analyze the performance of athletes and countries in the Paralympic Games. The project involved extensive data cleaning, transformation, and modeling to ensure that the dashboard works seamlessly, with logical filtering and accurate visual representations of the data.
@@ -88,7 +86,7 @@ The Power BI dashboard allows users to explore several key insights, including:
 ## How to Use This Repository
 
 1. **Download**: Clone the repository or download the `PBIX` file to explore the dashboard.
-2. Click the **link** to the Power BI App.
+2. Click the **[link](https://app.powerbi.com/view?r=eyJrIjoiMjMzMzU5NjItMzIzNy00ZTlkLWFjMDgtZGUyODZiZDRmYTQzIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9)** to the Power BI App.
 
 ## Conclusion
 
