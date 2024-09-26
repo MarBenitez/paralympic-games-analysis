@@ -86,7 +86,7 @@ The Power BI dashboard allows users to explore several key insights, including:
 ## How to Use This Repository
 
 1. **Download**: Clone the repository or download the `PBIX` file to explore the dashboard.
-2. Click the **[link](https://app.powerbi.com/view?r=eyJrIjoiMjMzMzU5NjItMzIzNy00ZTlkLWFjMDgtZGUyODZiZDRmYTQzIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9)** to the Power BI App.
+2. Click the **[link](https://app.powerbi.com/view?r=eyJrIjoiMjMzMzU5NjItMzIzNy00ZTlkLWFjMDgtZGUyODZiZDRmYTQzIiwidCI6IjhhZWJkZGI2LTM0MTgtNDNhMS1hMjU1LWI5NjQxODZlY2M2NCIsImMiOjl9&embedImagePlaceholder=true)** to the Power BI App.
 
 ## Conclusion
 
