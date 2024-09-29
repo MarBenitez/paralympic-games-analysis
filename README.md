@@ -91,3 +91,13 @@ The Power BI dashboard allows users to explore several key insights, including:
 ## Conclusion
 
 This Power BI dashboard provides an insightful and interactive way to explore historical data from the Paralympic Games. By cleaning and normalizing the data, I ensured that the model is consistent, efficient, and easy to filter, enabling rich data analysis with minimal redundancy.
+
+## Screenshots
+
+Dashboard on images:
+
+![overview](https://github.com/MarBenitez/paralympic-games-analysis/blob/main/images/overview.png)
+
+![athletes](https://github.com/MarBenitez/paralympic-games-analysis/blob/main/images/athletes.png)
+
+![countries](https://github.com/MarBenitez/paralympic-games-analysis/blob/main/images/countries.png)
